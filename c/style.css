@@ -7,7 +7,7 @@
   align-items: center;
   height: 100vh;
   color: white;
-  background-image: url(bg.jpg);
+  background: linear-gradient(to bottom right, #1073cb 20%, #139ff0 100%);
   font-family: 'Roboto', sans-serif;
   font-weight: bold;
 }
